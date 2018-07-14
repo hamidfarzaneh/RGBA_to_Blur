@@ -95,6 +95,12 @@ copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
     <Image Include="..\..\..\..\..\Desktop\2.jpg" />
     <Image Include="Image.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GpuTimer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GputTimer.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 9.1.targets" />

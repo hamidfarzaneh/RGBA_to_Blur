@@ -332,6 +332,9 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\include\device_launch_pa
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
+c:\users\vahid\documents\visual studio 2015\projects\rgbatogrey\rgbatogrey\GpuTimer.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\include\device_launch_parameters.h
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\opencv2/core/core.hpp
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\opencv2/core.hpp
 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\opencv2/core/cvdef.h
